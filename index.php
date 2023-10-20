@@ -340,17 +340,6 @@ $p35->nome      = "Henrique Nagata";
       $p35->hobbie     = "andar de bicicleta";
 
 
-
-
-
-
-  
-  
-
-
-
-
-
 //Imprimindo 
 echo "Alunos de Desenvolvimentos de Sistemas do Senai Jacob Lafer:<br/> <br/>";
 $p1->MostrarPessoa();
@@ -421,14 +410,3 @@ echo "<br/> <br/>";
 $p34->MostrarPessoa();
 echo "<br/> <br/>";
 $p35->MostrarPessoa();
-
-
-
-
-
-
-
-
-
-
- ?>
