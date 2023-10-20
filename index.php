@@ -17,7 +17,7 @@ echo "Nome: " . $p1->nome . "<br/>
         Nascimento: " . $p1->nascimento . "<br/>
         Hobbie: " . $p1->hobbie . "<br/><br/><br/>";
 
-//Instanciando um novo objeto p1
+//Instanciando um novo objeto p2
 $p2 = new Pessoa();
 
 //Atribuindo valores ao atributo
@@ -28,7 +28,7 @@ $p2->hobbie     = "Ouvir Música e Fazer aula de Jazz";
 
 
 
-//Instanciando um novo objeto p1
+//Instanciando um novo objeto p3
 $p3 = new Pessoa();
 
 //Atribuindo valores ao atributo
@@ -38,7 +38,7 @@ $p3->nascimento = "03/03/2007";
 $p3->hobbie     = "Ouvir música, ler livros e jogar videogame";
 
 
-//Instanciando um novo objeto p1
+//Instanciando um novo objeto p4
 $p4 = new Pessoa();
 
 
@@ -51,7 +51,7 @@ $p4->hobbie     = "Tocar Violão";
 
 
 
-//Instanciando um novo objeto p1
+//Instanciando um novo objeto p5
 $p5 = new Pessoa();
 
 //Atribuindo valores ao atributo
@@ -63,7 +63,7 @@ $p5->hobbie     = "Cozinhar";
 
 
 
- //Instanciando um novo objeto p1
+ //Instanciando um novo objeto p6
 $p6 = new Pessoa();
 
 //Atribuindo valores ao atributo
@@ -74,7 +74,7 @@ $p6->hobbie     = "Ler";
 
 
 
-  //Instanciando um novo objeto p1
+  //Instanciando um novo objeto p8
 $p8 = new Pessoa();
 
 //Atribuindo valores ao atributo
@@ -85,7 +85,7 @@ $p8->hobbie     = "Tocar Piano";
 
 
 
-  //Instanciando um novo objeto p1
+  //Instanciando um novo objeto p9
 $p9 = new Pessoa();
 
 //Atribuindo valores ao atributo
@@ -97,7 +97,7 @@ $p9->hobbie     = "Ler";
 
 
 
-  //Instanciando um novo objeto p1
+  //Instanciando um novo objeto p10
   $p10 = new Pessoa();
 
   //Atribuindo valores ao atributo
@@ -109,7 +109,7 @@ $p9->hobbie     = "Ler";
 
 
 
-  //Instanciando um novo objeto p1
+  //Instanciando um novo objeto p11
   $p11 = new Pessoa();
 
   //Atribuindo valores ao atributo
@@ -119,7 +119,7 @@ $p9->hobbie     = "Ler";
   $p11->hobbie     = "jogar";
   
 
-     //Instanciando um novo objeto p1
+     //Instanciando um novo objeto p12
   $p12 = new Pessoa();
 
   //Atribuindo valores ao atributo
@@ -129,7 +129,7 @@ $p9->hobbie     = "Ler";
   $p12->hobbie     = "Pintar";
 
   
-     //Instanciando um novo objeto p1
+     //Instanciando um novo objeto p13
      $p13 = new Pessoa();
 
      //Atribuindo valores ao atributo
@@ -138,7 +138,7 @@ $p9->hobbie     = "Ler";
      $p13->nascimento = "05/01/2007";
      $p13->hobbie     = "Tocar Guitarra";
 
-     //Instanciando um novo objeto p1
+     //Instanciando um novo objeto p14
      $p14 = new Pessoa();
 
      //Atribuindo valores ao atributo
@@ -147,7 +147,7 @@ $p9->hobbie     = "Ler";
      $p14->nascimento = "26/07/2006";
      $p14->hobbie     = "Jogar/ouvir música";
 
-    //Instanciando um novo objeto p1
+    //Instanciando um novo objeto p15
     $p15 = new Pessoa();
 
     //Atribuindo valores ao atributo
@@ -156,7 +156,7 @@ $p9->hobbie     = "Ler";
           $p15->nascimento = "03/11/2006";
           $p15->hobbie     = "Treinar e ouvir música";
     
-      //Instanciando um novo objeto p1
+      //Instanciando um novo objeto p16
       $p16 = new Pessoa();
 
       //Atribuindo valores ao atributo
@@ -165,7 +165,7 @@ $p9->hobbie     = "Ler";
             $p16->nascimento = "19/01/2007";
             $p16->hobbie     = "Ler e ouvir música";
 
-      //Instanciando um novo objeto p1
+      //Instanciando um novo objeto p17
       $p17 = new Pessoa();
 
       //Atribuindo valores ao atributo
@@ -174,7 +174,7 @@ $p9->hobbie     = "Ler";
             $p17->nascimento = "07/01/2007";
             $p17->hobbie     = "Ouvir música";
 
-      //Instanciando um novo objeto p1
+      //Instanciando um novo objeto p18
       $p18 = new Pessoa();
 
       //Atribuindo valores ao atributo
@@ -183,7 +183,7 @@ $p9->hobbie     = "Ler";
             $p18->nascimento = "09./06/2007";
             $p18->hobbie     = "Jogar";
 
-      //Instanciando um novo objeto p1
+      //Instanciando um novo objeto p19
       $p19 = new Pessoa();
 
       //Atribuindo valores ao atributo
@@ -192,7 +192,7 @@ $p9->hobbie     = "Ler";
             $p19->nascimento = "02/08/2006";
             $p19->hobbie     = "Esporte";
 
-      //Instanciando um novo objeto p1
+      //Instanciando um novo objeto p20
       $p20 = new Pessoa();
 
       //Atribuindo valores ao atributo
@@ -201,7 +201,7 @@ $p9->hobbie     = "Ler";
             $p20->nascimento = "23/03/2007";
             $p20->hobbie     = "Jogar e Desenhar";
     
-      //Instanciando um novo objeto p1
+      //Instanciando um novo objeto p21
       $p21 = new Pessoa();
 
       //Atribuindo valores ao atributo
@@ -211,7 +211,7 @@ $p9->hobbie     = "Ler";
             $p21->hobbie     = "Dormir e jogar";
 
     
-     //Instanciando um novo objeto p1
+     //Instanciando um novo objeto p22
      $p22 = new Pessoa();
 
      //Atribuindo valores ao atributo
@@ -220,7 +220,7 @@ $p9->hobbie     = "Ler";
            $p22->nascimento = "15/09/2006";
            $p22->hobbie     = "Assistir e criticar filme";
 
-     //Instanciando um novo objeto p1
+     //Instanciando um novo objeto p23
      $p23 = new Pessoa();
 
      //Atribuindo valores ao atributo
@@ -229,7 +229,7 @@ $p9->hobbie     = "Ler";
            $p23->nascimento = "02/09/2006";
            $p23->hobbie     = "Jogar Videogame";
 
- //Instanciando um novo objeto p1
+ //Instanciando um novo objeto p24
  $p24 = new Pessoa();
 
  //Atribuindo valores ao atributo
@@ -238,7 +238,7 @@ $p9->hobbie     = "Ler";
        $p24->nascimento = "04/03/2007";
        $p24->hobbie     = "Esportes";
 
- //Instanciando um novo objeto p1
+ //Instanciando um novo objeto p25
  $p25 = new Pessoa();
 
  //Atribuindo valores ao atributo
@@ -247,7 +247,7 @@ $p9->hobbie     = "Ler";
        $p25->nascimento = "28/07/2006";
        $p25->hobbie     = "Videogame";
 
- //Instanciando um novo objeto p1
+ //Instanciando um novo objeto p26
  $p26 = new Pessoa();
 
  //Atribuindo valores ao atributo
@@ -256,7 +256,7 @@ $p9->hobbie     = "Ler";
        $p26->nascimento = "19/09/2006";
        $p26->hobbie     = "Esporte, ouvir música e jogos eletrônicos";
 
- //Instanciando um novo objeto p1
+ //Instanciando um novo objeto p27
  $p27 = new Pessoa();
 
  //Atribuindo valores ao atributo
@@ -265,7 +265,7 @@ $p9->hobbie     = "Ler";
        $p27->nascimento = "21/03/2007";
        $p27->hobbie     = "Pintar";
 
- //Instanciando um novo objeto p1
+ //Instanciando um novo objeto p28
  $p28 = new Pessoa();
 
  //Atribuindo valores ao atributo
@@ -274,7 +274,7 @@ $p9->hobbie     = "Ler";
        $p28->nascimento = "03/08/2006";
        $p28->hobbie     = "jogar videogame e praticar esportes";
 
-//Instanciando um novo objeto p1
+//Instanciando um novo objeto p29
 $p29 = new Pessoa();
 
 //Atribuindo valores ao atributo
@@ -283,7 +283,7 @@ $p29->nome      = "Gabriel Diaz";
       $p29->nascimento = "21/03/2007";
       $p29->hobbie     = "jogar";
 
-//Instanciando um novo objeto p1
+//Instanciando um novo objeto p30
 $p30 = new Pessoa();
 
 //Atribuindo valores ao atributo
@@ -293,7 +293,7 @@ $p30->nome      = "Duda";
       $p30->hobbie     = "jogar vôlei";
 
 
-//Instanciando um novo objeto p1
+//Instanciando um novo objeto p31
 $p31 = new Pessoa();
 
 //Atribuindo valores ao atributo
@@ -302,7 +302,7 @@ $p31->nome      = "Bruno Alves";
       $p31->nascimento = "28/05/2007";
       $p31->hobbie     = "Tocar Instrumentos";
 
-//Instanciando um novo objeto p1
+//Instanciando um novo objeto p32
 $p32 = new Pessoa();
 
 //Atribuindo valores ao atributo
@@ -311,7 +311,7 @@ $p32->nome      = "Felipe Wilbert";
       $p32->nascimento = "06/12/2006";
       $p32->hobbie     = "Academia";
 
-//Instanciando um novo objeto p1
+//Instanciando um novo objeto p33
 $p33 = new Pessoa();
 
 //Atribuindo valores ao atributo
@@ -320,7 +320,7 @@ $p33->nome      = "Miguel Romero";
       $p33->nascimento = "14/04/2007";
       $p33->hobbie     = "jogar futebol";
 
-//Instanciando um novo objeto p1
+//Instanciando um novo objeto p34
 $p34 = new Pessoa();
 
 //Atribuindo valores ao atributo
@@ -330,7 +330,7 @@ $p34->nome      = "Pedro Araújo";
       $p34->hobbie     = "jogar video game e andar de bike";
 
 
-      //Instanciando um novo objeto p1
+      //Instanciando um novo objeto p35
 $p35 = new Pessoa();
 
 //Atribuindo valores ao atributo
