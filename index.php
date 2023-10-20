@@ -12,7 +12,8 @@ $p1->nascimento = "30-09-2006";
 $p1->hobbie     = "Ouvir Música e Assistir Série";
 
 //Imprimindo valores inseridos no objeto(p1) usando echo
-echo "Nome: " . $p1->nome . "<br/>
+echo " Desenvolvedora:  <br/>
+        Nome: " . $p1->nome . "<br/>
         Altura: " . $p1->altura . "<br/>
         Nascimento: " . $p1->nascimento . "<br/>
         Hobbie: " . $p1->hobbie . "<br/><br/><br/>";
